@@ -1,6 +1,6 @@
 *Joanna Boland*
 
-### Overall Grade: 121/125
+### Overall Grade: 118/125
 
 ### Quality of report: 10/10
 
@@ -21,7 +21,7 @@
     - Yes.
 
 
-### Correctness and efficiency of solution: 96/100
+### Correctness and efficiency of solution: 93/100
 
 * Q1 (3/5 pts)
 
@@ -35,9 +35,11 @@
 
 * Q5
 
-    * Step 1 (15/15 pts)
+    * Step 1 (12/15 pts)
 
         - Note that `sleep(1e-2)` should be removed from your final code, its just a placeholder. This is where your extra allocations happen.
+
+        - `pgrksol.csv` in repository. This was specifically asked to **avoid** doing. `(-3 pts)`
 
     * Step 2 (18/20 pts)
 
