@@ -1,0 +1,269 @@
+[33mcommit 1a039c3231d635f75dadb619933e512950eb3ca6[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Mon Jun 1 17:51:58 2020 -0700
+
+    Removed fil
+
+[33mcommit 3198fdaf033561a97773060f5c868fa824e66a7c[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Mon Jun 1 17:39:04 2020 -0700
+
+    Finished
+
+[33mcommit 900c6777703934c24cf09aa11c0f16b1be0f07a5[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Mon Jun 1 17:16:25 2020 -0700
+
+    DONE
+
+[33mcommit 61dce1f819d06042e8fd630dbf1adcb070373f8c[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Mon Jun 1 12:38:40 2020 -0700
+
+    Almost done
+
+[33mcommit e09532f6f8e23e5907ed74df4d08eebd9f489538[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Mon Jun 1 00:10:06 2020 -0700
+
+    Need to figure out how to speed everything up tomorrow
+
+[33mcommit 806cea1643c1e0b89abd845447736e3d6c10619b[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sun May 31 23:51:31 2020 -0700
+
+    Getting closer
+
+[33mcommit ac2a862a3dbe38cba29ec1e6a2dd70b02c88e517[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sun May 31 16:28:00 2020 -0700
+
+    Solved my major issue, now finishing problem 5!
+
+[33mcommit 69104a4672d064bdad4d4bb119046380bc79b7fe[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sun May 31 14:06:51 2020 -0700
+
+    Finished the proof of deriving the initial values
+
+[33mcommit bbe916aff65b7a43942a81155b10033aebfa76f3[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sat May 30 23:19:03 2020 -0700
+
+    Email Hua about issues, If no response by tomorrow going to move forward with problem 5 and score extra credit
+
+[33mcommit 2dd2c55763452582872c5a71769c9d48456404d9[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sat May 30 16:55:39 2020 -0700
+
+    Found the major bottleneck, now trying to solve
+
+[33mcommit b3874ec13bf714efaf21932508084b0eba9ce38d[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Fri May 29 14:31:29 2020 -0700
+
+    Reformmated Code to be in proper place
+
+[33mcommit d14418c0049c4759c4aadc3939f4dc3a3f317251[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Fri May 29 14:02:13 2020 -0700
+
+    Calculating the correct values, now need to check speed and memory
+
+[33mcommit 06a3b59b29c4ca7cdf3250ac83388d9ff931f5d3[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Fri May 29 11:35:57 2020 -0700
+
+    Brekaing everything up into smaller computing chunks in order to avoid recalculating things
+
+[33mcommit 78d24b8cdd289b38d75663155daaa4fcf2b04b1f[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Wed May 27 23:07:53 2020 -0700
+
+    Playing with BLAS functions
+
+[33mcommit 3a6a82860ecf809116b3f64e8c8635066e7f12ab[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Tue May 19 21:48:50 2020 -0700
+
+    Finished copying Hua's code
+
+[33mcommit b6bb5fa64fdbe45d2ac128a110598268d1f46d05[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Tue May 19 18:37:30 2020 -0700
+
+    Copied Code
+
+[33mcommit 08f172e3e6ed58232c93cd145a5de49dc8326933[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Tue May 19 13:32:04 2020 -0700
+
+    Created Hw4 and started assignment
+
+[33mcommit 3f15f1360897a44392c73c2df126d2998bb801ad[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Fri May 15 20:01:24 2020 -0700
+
+    Okay deleted file
+
+[33mcommit ebd03bcd2334eaa7a261b06e93c28dd6ec8883c8[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Fri May 15 19:58:45 2020 -0700
+
+    Yes finished, everything works!
+
+[33mcommit 5bd8b9eb180ba414937534e50149161655bd129d[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Fri May 15 19:04:50 2020 -0700
+
+    Ugh
+
+[33mcommit 95477342e3007fc545e880a44a7b3483813cf4bc[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Fri May 15 18:59:14 2020 -0700
+
+    My matrixdepot isn't working anymore
+
+[33mcommit 0b297509fe97f24b6a6e9f3d4d997150b303a3d2[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Fri May 15 17:00:50 2020 -0700
+
+    Something is wrong with the math but all of the other components are finished
+
+[33mcommit 00fab8e374b0ddba9f8002af11a83ef9dafea8aa[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Fri May 15 14:34:19 2020 -0700
+
+    Essentially finished the code
+
+[33mcommit f3ca24e9ea411be4565d07a80b489507f9a65c75[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Fri May 15 12:22:03 2020 -0700
+
+    Think I have the blas functions figured out
+
+[33mcommit 23d2511a92b5e64e0925899d4ce52dafb4aa4ee5[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Thu May 14 18:08:43 2020 -0700
+
+    Think I have finalized the constructor
+
+[33mcommit 95e00333be6ad6209e5c17c5d9317c8b6de1fd84[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sun May 10 19:41:10 2020 -0700
+
+    Formatted document quite a bit
+
+[33mcommit 97253c3ae1d22b68a816952e0df5d8e0f9a2e973[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sun May 10 19:11:16 2020 -0700
+
+    Started solving problem 3
+
+[33mcommit a410d380bd543f9e9fd084569099038ec17d5f00[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sun May 10 15:52:51 2020 -0700
+
+    Started assignment writeup
+
+[33mcommit f00c8ff628cb0afb678dac1bb94ef67177b421db[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sun May 3 21:12:36 2020 -0700
+
+    Edit
+
+[33mcommit e62d96892db70ae0d49292fdaa3761c0b9a58b6a[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sun May 3 20:25:07 2020 -0700
+
+    Updated
+
+[33mcommit 15ac3c828a30ca4b39902f242e6a113be74574d3[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sun May 3 19:07:43 2020 -0700
+
+    Sometimes it runs at 30/30, and sometimes it runs at 10/30
+
+[33mcommit c31cbcf393987fefd5173f01feeea3476eed181e[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sun May 3 18:48:07 2020 -0700
+
+    I'm not sure how to make this go faster
+
+[33mcommit 37ed19d1904bbebbea80e068eef07befd92db138[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sun May 3 18:31:40 2020 -0700
+
+    Realized my mistake in algebra, getting correct solution now
+
+[33mcommit cc1211a4f829cd1e6cdf854ef4528bf98e7ac6b7[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sun May 3 18:05:20 2020 -0700
+
+    Need to figure out how to manipulate the Cholesky decomp to finish
+
+[33mcommit 1de6da710c604e71a0eb0ec2e021f03003c815fd[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sat May 2 21:22:59 2020 -0700
+
+    Mostly finished, getting wrong solution but think it has to do with cholesky
+
+[33mcommit e66aa0cfbea0883c72ddcbcbd03ee76a95bd060d[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sat May 2 21:10:50 2020 -0700
+
+    Update hw2-checkpoint.ipynb
+
+[33mcommit 4b2e15bf8a657e9239480bbe12f1b8f9ff889138[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sat May 2 21:10:43 2020 -0700
+
+    Almost finished with cholesky decomp
+
+[33mcommit 632373c5e06d635882ec9cbd957111ed85ae1dfe[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sat May 2 15:34:16 2020 -0700
+
+    THinking about this problem in a simpler way, taking it in steps not big picture
+
+[33mcommit 0fbb25459ee78918d2d82257d3a86e0c03a8cc3f[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sat May 2 15:00:32 2020 -0700
+
+    Applied woodbury for moderate speedup, nowhere near close
+
+[33mcommit 246f56ca70008b1339b33b7121333d1699e05803[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Sat May 2 14:05:32 2020 -0700
+
+    starting to re-write log determinant
+
+[33mcommit d07879f16f46444b447162f583c4ec7d1f5bc933[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Fri May 1 18:20:49 2020 -0700
+
+    Started simplifying the determinant
+
+[33mcommit 2443de09449574c721134e4f272d3ec4ec80593c[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Fri May 1 18:05:27 2020 -0700
+
+    At least the actual function gives me the correct answer
+
+[33mcommit bab968d112f0c4c34bfc781d45a5e15909b81dfb[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Fri May 1 16:03:00 2020 -0700
+
+    Getting correct value without using any tricks
+
+[33mcommit 8a5515f0731fc523f5b907d6ac11a50332183981[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Wed Apr 29 14:18:31 2020 -0700
+
+    preliminary steps in writing function
+
+[33mcommit 7ffe5a15c6fa497bbb9bbc86505417ad98a828b6[m
+Author: jboland521 <jboland1@g.ucla.edu>
+Date:   Fri Apr 24 18:27:56 2020 -0700
+
+    W
